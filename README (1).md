@@ -152,5 +152,5 @@ jupyter notebook
 
 ## 👤 Author  
 
-**Joy Talukdar**  
+**SRINJAN BHAKAT**  
  
